@@ -17,7 +17,7 @@ public class Diver {
         Above 50 - Be careful now you at at 50%
      */
     public static void main (String [] args) {
-        int oxygenLevel = 85;
+        int oxygenLevel = 91;
 
         if (oxygenLevel > 90) {
             System.out.println("Your tank is full");

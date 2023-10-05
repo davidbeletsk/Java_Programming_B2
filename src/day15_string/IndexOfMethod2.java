@@ -22,6 +22,8 @@ public class IndexOfMethod2 {
         System.out.println("Second i index: " + str.indexOf('i', str.indexOf('i')+1));
 
 
+
+
     }
 
 }

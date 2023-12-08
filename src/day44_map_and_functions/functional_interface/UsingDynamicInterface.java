@@ -13,7 +13,7 @@ public class UsingDynamicInterface {
             }
         };
 
-        printEachChar.test("Hello Functional Interface");
+        printEachChar.test("Hello Functional Interface and now i wanna live");
 
 //----------------------------------------------------------------------
 
